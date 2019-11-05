@@ -7,7 +7,7 @@ The proposed network, called Neighbor-ResNet, is a modified deep residual networ
 
 **Input data:** 
 
-​	remote sensing imagery collected from open-sourced Google Maps
+​	 <u>remote sensing imagery collected from open-sourced Google Maps</u>
 
    （<https://github.com/linuxexp/Google-Maps-Downloader>）
 
@@ -19,13 +19,13 @@ The proposed network, called Neighbor-ResNet, is a modified deep residual networ
 
 **Output data:**
 
- 	positioning  data collected from Tencent applications
+​	 <u>positioning  data collected from Tencent applications</u>
 
 ​	 Due to the privacy concern, we only share the data information and attributions.
 
 ​	 Date: 18 January 2016 to 22 January 2016
 
- 	Spatial resolution: 0.01° in latitude × 0.01° in longtitude
+​	 Spatial resolution: 0.01° in latitude × 0.01° in longtitude
 
 | Id   | min_lat | min_lon | volumes |
 | ---- | ------- | ------- | ------- |
