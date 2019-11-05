@@ -1,7 +1,7 @@
 # nrn
 Codes and materials for paper *Mapping human activity volumes through remote sensing imagery*.
 
-The proposed network, called Neighbor-ResNet, is a modified deep residual network taking spatial autocorrelation into account. 
+The proposed network, called Neighbor-ResNet, is a modified deep residual network taking neighboring influence and spatial autocorrelation into account. It is fit for estimation tasks of geographical phenomenon such as human activity distributions.
 
 **Data:**
 
