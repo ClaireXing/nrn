@@ -23,7 +23,7 @@ The proposed network, called Neighbor-ResNet, is a modified deep residual networ
 
 ​	 Due to the privacy concern, we only share the data information and attributions.
 
-​	 Date: 18 January 2016 to 22 January 2016
+​	 Date: 18 January 2016 to 22 January 2016 
 
 ​	 Spatial resolution: 0.01° in latitude × 0.01° in longtitude
 
