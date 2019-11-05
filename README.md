@@ -17,7 +17,7 @@ The proposed network, called Neighbor-ResNet, is a modified deep residual networ
 
 ​	Project: WGS84 Web Mercator
 
-**Output data:**
+**Output label data:**
 
 ​	 <u>positioning  data collected from Tencent applications</u>
 
